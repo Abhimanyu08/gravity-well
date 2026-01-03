@@ -1,0 +1,14 @@
+---
+title: "My first day at the Indie Web Club"
+date: 2026-01-03
+---
+
+I’m writing this right now while sitting at Indie web club meet. We’ve been given some prompts to write about, but none of them ellicit legible enough thoughts that need to be put down into words. 
+
+The first prompt is “What is the meaning of life?”. Currently, this question reeks of [fake thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking) for me. I could do a lot of philosophising and virtue signalling around it without saying anything of value. Mostly, because meaning is [nebulous](https://meaningness.com/nebulosity). It comes and goes. It’s not something you can point to. It can’t be referenced to. But, I do sometimes fall into situations where the meaning of life becomes the object of my attention. Then I eat a pizza and it’s gone. Life is inherently meaningful and worth living again. That’s the extent of what I can say about “meaning of life” for now.
+
+The second prompt is “Write about themes/intentions you have for your personal blog”. Now this is good. I’ve set up an accountability bet with a friend which says that I’ll owe her 1500 for every week that I don’t publish on my blog. What prompted me to do this? Are there some elephants in the brain other than “I really care about writing on the Internet” that led me to do this. I think yes. They’re easy to spot - very large elephants, mammoths even. It’s that I want to put up a certain kind of a front - That I’m the kind of person who cares so much about this obscure thing, which normal people usually don’t. But this elephant in the brain has led me to do good stuff in general, so the utilitarian inside me is satisfied. Keeping it aside, what do I really want to gain from this personal website and publishing on it?
+
+Well, I want to become the kind of person whose writing gets shared around. The kind of person who writes so well about some subjective experience or a concept that other person reads it and it tingles some part of her brain. This is extremely rare and hard to do. This requires you to be human but also look at humanity with a [scientific sensibility](https://www.ribbonfarm.com/2011/08/26/the-scientific-sensibility/) that’s hard to culivate. 
+
+Why do I want my writing to be shared around? To make friends is the first answer that comes to mind. Although, some folks at this meetup disgreed with the essay -  [A blog post is a very long and complex search query to find fascinating people and make them route interesting stuff to your inbox](https://www.henrikkarlsson.xyz/p/search-query) , I’ll continue to believe in it until it’s proven otherwise for me personally. The impact of a [friendly, ambitious, nerd](https://www.visakanv.com/archives/2023/06/18/one-foot-fan/) in your life will always be underrated, and I want to attract more of them.

@@ -12,7 +12,6 @@ At least in my age, I would say it’s fair to be delusional about your prospect
 
 2. **Put work out into the public often/Optimize for being prolific rather than good.**
 To iterate towards greatness you need to keep putting out work into the world. It probably will not be as good as you want it to be. There’ll be skill issues, there’ll be [your work lagging behind your taste](https://www.goodreads.com/author/quotes/113989.Ira_Glass) issues. But there needs to be a body of work you can point to and say “I did that”. You have to own up to how shitty it is while also being proud of yourself for having the determination and courage of doing it and making it public. Each iteration will be better than the previous one. 
-
 I can't quite put it into words, but there's something about putting your bad attempts in public which feels therapeutic. It feels like unclogging a stream. "Shipping something" has a certain ring to it which I like.  
 
 3. **Build supportive contexts**
@@ -25,7 +24,6 @@ d. Getting rid of the default scarcity mindset which makes you look at life as a
 
 4. **Learn to give yourself rewards outside of work**
 The reason we sometimes refrain from working on our personal projects is because our body has learnt that there might not be an appropriate reward at the end of a slog. If the personal project is not gratifying in itself, then this will backfire for sure. The only place where most of us are getting rewarded is at our work where the systems are continuously being optimized to give you the least reward per unit of work you do - nothing wrong in that, this is what an efficient entity should be doing. But this also means that we need to get good setting up our own reward systems. If not, we'll become slaves to the reward systems built by others. 
-
 I think one of the things I like about "putting work out in public" is that sharing your questionable quality work out in public is sometimes rewarding enough in itself. It motivates you to do more of it. It's actually the reason I'm putting out my bad writing here and my [bad photography out there on Instagram.](https://www.instagram.com/a__bhimany_u?igsh=MTg2bDJjMWc4YXRkYw%3D%3D&utm_source=qr)
 
 5. **Slow is smooth, smooth is fast**
@@ -33,5 +31,4 @@ I’ve written about this [before](https://gravity-well.netlify.app/posts/speed/
 
 6. **Be a masochist or try to fall in love with doing hard things**
 Acquiring any new skill or understanding of the world has to go through pain. There's no other way around it. Your body will repulse the new info being thrown at it. Your neurons would constantly want to be in a state where they don't have to be organized in a certain pattern. The very laws of physics are your bottleneck here. So, it'll be hard. But ultimately, it'll be fun. 
-
 To make hard things fun, you have to give yourself rewards for doing them which ties back to my previous point (It's all connected). You have to get good at making [metagames in life](http://davidcole.me/metagames.html)
